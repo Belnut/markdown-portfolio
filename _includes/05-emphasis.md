@@ -1,1 +1,17 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+ ✨ 안녕하세요! 백엔드 개발자 원현진입니다! 👋
+Spring Boot, JPA의 편리함을 선호합니다.
+
+먼저 학습하고 만들기 보다는, 만들어보고 배우는 야생형 프로그래머 입니다.
+
+현재는 이런 모임에 소속되어 있어요! 👯
+42 Seoul 4기 Cadet (2021.04 ~ )
+아침조깅 토론모임 런앤리드 (2021.08 ~ )
+TalmoVim 팀 (2020.12 ~ )
+SQL 스터디 모임 (2021.10 ~ )
+이전에는 이런 모임에 소속되어 있었어요! 📫
+수원대학교 조영일 교수님 학습 세미나 랩실 랩장 (2015.06 ~ 2018.06)
+수원대학교 랩실 C, Java 멘토 (2016.03 ~ 2018.06)
+취미는 이렇습니다! 😄
+에이펙스 레전드 만년 플래4
+헬스 1년차 헬린이
+하루에 캡슐커피 3잔은 기본인 카페인 애호가
